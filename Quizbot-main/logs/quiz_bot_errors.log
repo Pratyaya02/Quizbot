@@ -1,0 +1,12 @@
+2026-07-22 13:35:04 | ERROR    | __main__ | start_quiz:2274 | Error in start_quiz: name 'question_set_id' is not defined
+Traceback (most recent call last):
+  File "E:\Quizbot-main\Quizbot-main\bot.py", line 2181, in start_quiz
+    logger.info(f"Starting quiz {question_set_id} in chat {chat_id} (type: {chat_type})")
+                                 ^^^^^^^^^^^^^^^
+NameError: name 'question_set_id' is not defined
+2026-07-22 13:36:08 | ERROR    | __main__ | start_quiz:2274 | Error in start_quiz: name 'question_set_id' is not defined
+Traceback (most recent call last):
+  File "E:\Quizbot-main\Quizbot-main\bot.py", line 2181, in start_quiz
+    logger.info(f"Starting quiz {question_set_id} in chat {chat_id} (type: {chat_type})")
+                                 ^^^^^^^^^^^^^^^
+NameError: name 'question_set_id' is not defined

@@ -1,0 +1,59 @@
+# Query: devgagan
+# ContextLines: 1
+
+20 results - 7 files
+
+Quizbot-main\bot.py:
+  10  ║  Sponsored by  : Qzio — qzio.in                                          ║
+  11: ║  Developed by  : Pratyaya — Pratyaya.in                                  ║
+  12  ║  Version       : 2.2.0                                                   ║
+
+Quizbot-main\c.py:
+  8  ║  Sponsored by  : Qzio — qzio.in                                          ║
+  9: ║  Developed by  : Pratyaya — Pratyaya.in                                  ║
+  10  ║  License       : MIT                                                     ║
+
+Quizbot-main\config.py:
+  5  ║  Sponsored by  : Qzio — qzio.in                              ║
+  6: ║  Developed by  : Pratyaya — Pratyaya.in                      ║
+  7  ╚══════════════════════════════════════════════════════════════╝
+
+Quizbot-main\func.py:
+  8  ║  Sponsored by  : Qzio — qzio.in                                         ║
+  9: ║  Developed by  : Pratyaya — Pratyaya.in                                  ║
+  10  ║  License       : MIT                                                     ║
+
+Quizbot-main\LICENSE:
+  2  
+  3: Copyright (c) 2026 Pratyaya.in
+  4  
+
+Quizbot-main\main.py:
+   9  ║  Sponsored by  : Qzio — qzio.in                                         ║
+  10: ║  Developed by  : Pratyaya — Pratyaya.in                                  ║
+  11  ║  License       : MIT                                                     ║
+
+Quizbot-main\README.md:
+   15  
+   16: **Sponsored by [Qzio](https://qzio.in) &nbsp;•&nbsp; Developed by [Pratyaya](https://Pratyaya.in)**
+   17  
+
+   96  ```bash
+   97: git clone https://github.com/Pratyayain/Quizbot.git
+   98  cd Quizbot
+
+  118  
+  119: 1. Go to [github.com/Pratyayain/Quizbot](https://github.com/Pratyayain/Quizbot)
+  120  2. Click the **Fork** button (top-right corner)
+
+  296  cd /opt
+  297: sudo git clone https://github.com/Pratyayain/Quizbot.git
+  298  sudo chown -R $USER:$USER /opt/Quizbot
+
+  558  |---|---|
+  559: | **Developed by** | [Pratyaya](https://Pratyaya.in) |
+  560  | **Sponsored by** | [Qzio](https://qzio.in) — The Smart Quiz Platform |
+
+  567  
+  568: **© 2026 Pratyaya.in · Sponsored by Qzio**
+  569  
